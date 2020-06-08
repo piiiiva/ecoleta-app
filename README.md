@@ -88,6 +88,7 @@ $ npm knex:seed
 $ npm run dev
 
 # Rodando na porta 3333
+# Disponível em http://localhost:3333
 
 ```
 
@@ -107,6 +108,7 @@ $ npm install
 $ npm start
 
 # Rodando na porta 3333
+# Disponível em http://localhost:3333
 
 ```
 
@@ -127,8 +129,16 @@ $ npm start
 
 # Escanear o QRcode do Expo no terminal ou na página web
 
+# Rodando na porta 3333
+# É preciso verificar o seu IP e alterar o arquivo mobile/src/services/api.ts conforme o seu IP
+# Disponível em http://seuIP:3333
 
 ```
+---
+
+## Passo a passo de como construir
+Documentação dos principais pontos da NLW e da construção passo a passo da aplicação [aqui](https://www.notion.so/Next-Level-Week-2637ed1ec02443a3b4ba44e46ee05ce7)!
+
 ---
 
 Desenvolvido com 💚 por Rodrigo Diego Piva
