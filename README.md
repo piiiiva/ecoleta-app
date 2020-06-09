@@ -170,4 +170,4 @@ Documentação dos principais pontos da NLW e da construção passo a passo da a
 
 ---
 
-Desenvolvido com 💚 por Rodrigo Diego Piva
+Desenvolvido com 💚 por Rodrigo Piva
