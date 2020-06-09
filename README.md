@@ -2,12 +2,26 @@
     <img src="https://ik.imagekit.io/vnstq13zag/logo_An8fV0S6W.svg">
 </h1>
 
-# Indice
-- [Sobre](#-sobre)
-- [Principais tecnologias e bibliotecas utilizadas](#-principais-tecnologias-e-bibliotecas-utilizadas)
-- [Como baixar o projeto](#-como-baixar-o-projeto)
+# Seu marketplace de coleta de resíduos
 
-## 🔖📌 Sobre
+<div align="center">
+
+![GitHub language count](https://img.shields.io/github/languages/count/piiiiva/ecoleta-app)
+![GitHub top language](https://img.shields.io/github/languages/top/piiiiva/ecoleta-app)
+![GitHub repo size](https://img.shields.io/github/repo-size/piiiiva/ecoleta-app)
+
+</div>
+
+
+<p align="center">
+    <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-como-baixar-o-projeto">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-como-construir">Como construir</a>
+</p>
+
+
+## 📌 Sobre
 Projeto multiplataforma, web e mobile, desenvolvido durante a **Next Level Week #1**, promovida pela Rocketseat. Inspirado na semana do meio ambiente, o projeto tem por objetivo ajudar pessoas a encontrarem pontos de coleta de resíduos de forma eficiente. Foi desenvolvido um APIRestfull para alimentar os dados do front-end. A aplicação consome dados da API do IBGE para listar estados e cidades por estado, bem como consome a API do Leaflet para exibição do mapa.
 
 <h1 align="center">
@@ -22,7 +36,7 @@ Projeto multiplataforma, web e mobile, desenvolvido durante a **Next Level Week 
 
 ---
 
-## 🚀 Principais tecnologias e bibliotecas utilizadas
+## 🚀 Tecnologias
 
 O Projeto foi desenvolvido com as seguintes tecnologias.
 ### Back-end
@@ -136,7 +150,7 @@ $ npm start
 ```
 ---
 
-## Passo a passo de como construir
+## Ccomo construir
 Documentação dos principais pontos da NLW e da construção passo a passo da aplicação [aqui](https://www.notion.so/Next-Level-Week-2637ed1ec02443a3b4ba44e46ee05ce7)!
 
 ---
