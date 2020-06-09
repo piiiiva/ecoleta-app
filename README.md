@@ -2,9 +2,12 @@
     <img src="https://ik.imagekit.io/vnstq13zag/logo_An8fV0S6W.svg">
 </h1>
 
-# Seu marketplace de coleta de resíduos
+<h1 align="center"> 
+    Seu marketplace de coleta de resíduos
+</h1>
 
 <div align="center">
+
 
 ![GitHub language count](https://img.shields.io/github/languages/count/piiiiva/ecoleta-app)
 ![GitHub top language](https://img.shields.io/github/languages/top/piiiiva/ecoleta-app)
@@ -107,6 +110,10 @@ $ npm knex:seed
 # Iniciar o servidor
 $ npm run dev
 
+# É preciso verificar o seu IP e alterar os arquivos 
+-> server/src/controllers/ItemsController.ts conforme o seu IP
+-> server/src/controllers/PointsController.ts conforme o seu IP
+
 # Rodando na porta 3333
 # Disponível em http://localhost:3333
 
@@ -149,8 +156,10 @@ $ npm start
 
 # Escanear o QRcode do Expo no terminal ou na página web
 
+# É preciso verificar o seu IP e alterar os arquivos 
+-> mobile/src/services/api.ts conforme o seu IP
+
 # Rodando na porta 3333
-# É preciso verificar o seu IP e alterar o arquivo mobile/src/services/api.ts conforme o seu IP
 # Disponível em http://seuIP:3333
 
 ```
