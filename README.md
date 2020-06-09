@@ -165,7 +165,7 @@ $ npm start
 ```
 ---
 
-## Ccomo construir
+## 🛠 Como construir
 Documentação dos principais pontos da NLW e da construção passo a passo da aplicação [aqui](https://www.notion.so/Next-Level-Week-2637ed1ec02443a3b4ba44e46ee05ce7)!
 
 ---
